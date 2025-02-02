@@ -24,7 +24,7 @@
 
 <p align="left">
   <a href="https://pay.cloudtips.ru/p/7249ba98" target="_blank">
-    <img src="./media/buymeacoffee.png" alt="Image">
+    <img src="./media/buymeacoffe.png" alt="Image">
   </a>
 </p>
 
