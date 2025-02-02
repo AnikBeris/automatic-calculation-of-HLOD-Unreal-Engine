@@ -57,10 +57,6 @@ git clone https://github.com/AnikBeris/automatic-calculation-of-HLOD-Unreal-Engi
 cd Unreal-Engine-HLOD-Script
 ```
 
-## Install Dependencies
-```bash
-pip install -r requirements.txt
-```
 
 ## Run the Script
 ```bash
