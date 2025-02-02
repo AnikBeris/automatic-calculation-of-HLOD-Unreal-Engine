@@ -3,8 +3,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./media/logo-light.png">
-    <img alt="Project Logo" src="./media/logo-light.png">
+    <source media="(prefers-color-scheme: dark)" srcset="./media/logo-dark.png">
+    <img alt="Project Logo" src="./media/logo-light.png" width="512" height="512">
   </picture>
 </p>
 
@@ -16,19 +16,25 @@
 
 </div>
 
-# Unreal Engine Script for Building HLODs and MiniMap
+# Unreal Engine script for building HLODs and MiniMap
 
 > **Disclaimer:** This project is intended for educational and personal use only. Do not use it in production environments without appropriate testing.
 
 **If you like this project, don't forget to leave a star.**:star2:
 
 <p align="left">
-  <a href="https://buymeacoffee.com/yourusername" target="_blank">
-    <img src="./media/buymeacoffee.png" alt="Image">
+  <a href="https://pay.cloudtips.ru/p/7249ba98" target="_blank">
+    <img src="./media/buymeacoffe.png" alt="Image">
   </a>
 </p>
 
-Donations are warmly welcomed no matter how small and thank you very much. 😌
+[Donations are warmly welcomed no matter how small and thank you very much. 😌](https://pay.cloudtips.ru/p/7249ba98)
+
+- **Bitcoin (BTC)** - `1Dbwq9EP8YpF3SrLgag2EQwGASMSGLADbh`
+- **Ethereum (ERC20)** - `0x22258ea591966e830199d27dea7c542f31ed5dc5`
+- **Binance Smart Chain (BEP20)** - `0x22258ea591966e830199d27dea7c542f31ed5dc5`
+- **Solana (SOL)** - `yYYXsiVTzsvfvsMnBxfxSZEWTGytjAViE2ojf3hbLeF`
+
 
 ## Features
 - Automates the process of building HLODs and mini-maps in Unreal Engine 5.  
@@ -51,10 +57,6 @@ git clone https://github.com/AnikBeris/automatic-calculation-of-HLOD-Unreal-Engi
 cd Unreal-Engine-HLOD-Script
 ```
 
-## Install Dependencies
-```bash
-pip install -r requirements.txt
-```
 
 ## Run the Script
 ```bash
