@@ -84,7 +84,7 @@ It will also generate a log file in the same folder as the script.
 ---
 
 ## License
-This project is licensed under the [MIT License](https://github.com/YourUsername/Unreal-Engine-Script/blob/main/LICENSE).
+This project is licensed under the [MIT License](./LICENSE).
 
 ---
 
